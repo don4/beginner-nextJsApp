@@ -1,0 +1,50 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title": "Product 1",
+            "price": 8000,
+            "description": "Description 1"
+        },
+        {
+            "id":2,
+            "title": "Product 2",
+            "price": 1000,
+            "description": "Description 2"
+        },
+        {
+            "id":3,
+            "title": "Product 3",
+            "price": 2500,
+            "description": "Description 3"
+        }
+    ],
+    "news":[
+        {
+            "id":1,
+            "title": "News Articles 1",
+            "category": "sports",
+            "description": "News Articles Description 1"
+        },
+        {
+            "id":2,
+            "title": "News Articles 2",
+            "category": "politics",
+            "description": "News Articles Description 2"
+        },
+        {
+            "id":3,
+            "title": "News Articles 3",
+            "category": "sports",
+            "description": "News Articles Description 3"
+        }
+    ],
+    "dashboard":{
+        "posts":1,
+        "likes": 10,
+        "comments": 100,
+        "followers": 250,
+        "following": 100
+    }
+    
+}
